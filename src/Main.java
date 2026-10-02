@@ -18,5 +18,7 @@ void main() {
 
 
         //jakies zmiany !!!
+
+        //kolejne zmiany w ramach brancha !!!
     }
 }
