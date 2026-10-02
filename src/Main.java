@@ -22,5 +22,7 @@ void main() {
         //kolejne zmiany w ramach brancha !!!
 
         //zmiana z mastera !!!
+
+        //zmiana na nowy_branch2 !!!
     }
 }
